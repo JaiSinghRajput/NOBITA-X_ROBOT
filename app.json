@@ -1,5 +1,5 @@
 {
-      "name": "STAR X ROBOT",
+      "name": "NOBITA X ROBOT",
       "description": "star Robo is a group management bot.",
       "logo": "https://telegra.ph/file/26b5ac4684af8c68ebdce.jpg",
       "keywords": [
@@ -22,12 +22,12 @@
       "API_ID": {
          "description": "Get this value from my.telegram.org/apps.",
          "required": true,
-         "value": "14050586"
+         "value": ""
       },
       "API_HASH": {
          "description": "Get this value from my.telegram.org/apps.",
          "required": true,
-         "value": "42a60d9c657b106370c79bb0a8ac560c"
+         "value": ""
       },
       "ALLOW_EXCL": {
          "description": "Set this to True if you want ! to be a command prefix along with /. Recommended is True",
@@ -55,7 +55,7 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "1808943146"
+         "value": ""
       },
       "START_IMG": {
          "description": "Telegraph link of the image which will be shown at start command.",
