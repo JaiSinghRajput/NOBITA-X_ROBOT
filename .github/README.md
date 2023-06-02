@@ -3,8 +3,9 @@
 **ᴍᴀꜱᴛᴇʀ ɴᴏʙɪ**
 
 **𝓝𝓞𝓑𝓘 𝓥𝓘𝓢𝓘𝓣𝓞𝓡𝓢**
+<div>
 <img src="https://profile-counter.glitch.me/jaisingh007/count.svg">
-
+</div>
 <h2 align="center">
     ──「 ησвι ✘ ʀᴏʙᴏᴛ 」──
 </h2>
@@ -146,7 +147,7 @@ OWNER_ID =  sᴛᴀʀᴛ @nobita_x_robot & ᴛʏᴘᴇ /id
 <a href="https://telegram.me/nobita_x_support"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/radhe_krishna_hare_hare"><img src="https://img.shields.io/badge/Star Boi%20-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/radhe_krishna_hare_hare"><img src="https://img.shields.io/badge/NOBITA X%20-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 
