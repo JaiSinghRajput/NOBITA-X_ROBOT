@@ -9,6 +9,9 @@
 <h2 align="center">
     ──「 ησвι ✘ ʀᴏʙᴏᴛ 」──
 </h2>
+<div>
+<img src="https://te.legra.ph/file/4d08fe1ffcba588cd2ecf.jpg">
+</div>
 
 ##  ᴄᴀᴛᴄʜ ᴍᴇ ɪɴ [𝖘𝖚𝖕𝖕𝖔𝖗𝖙 𝖈𝖍𝖆𝖙✍🏃‍♀️](https://t.me/nobita_x_support) 
 ##  ᴄᴀᴛᴄʜ ᴍᴇ ɪɴ [ᴄʜᴀɴɴᴇʟ✍🏃‍♀️](https://t.me/the_nobita_support) 
